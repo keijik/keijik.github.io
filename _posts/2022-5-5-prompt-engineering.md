@@ -4,7 +4,7 @@ Have you seen AI models that can generate code for you?  Well, if you haven't, y
 
 Prompt engineering is the practice of using *prompts* to get the output you want.  A prompt is a sequence of text like a sentence or a block of code.  The practice of using prompts to elicit output originates with *people*.  Just as you can prompt people with things like a topic for writing an essay, amazingly you can use prompts to elicit an AI model to generate target output based on a task that you have in mind.
 
-![Prompt Completion](/images/01-prompt-completion-02.png)
+![Prompt Completion](/images/01-prompt-completion-01.png)
 
 The output to a prompt is called a *completion*.  It's just another name for the output to a prompt.  An example task might be to write a Python program to add two numbers.  If you write out the task as a Python comment like so:
 ```Python
